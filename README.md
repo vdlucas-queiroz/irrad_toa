@@ -1,5 +1,5 @@
 # irrad_toa
-Projeto referênte à disciplina de Princípios Físicos de Sensoriamento Remoto do curso de pós-graduação em Sensoriamento Remoto - INPE.
+Projeto referente à disciplina de Princípios Físicos de Sensoriamento Remoto do curso de pós-graduação em Sensoriamento Remoto - INPE.
 
 Cálculo da Irradiância no topo da atmosfera, dada latitude, longitude, hora local e data.
 
