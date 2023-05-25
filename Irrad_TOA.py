@@ -122,4 +122,5 @@ def irrad_toa(latitude, longitude, local_hour, gmt, date):
 
 
 # Exemplo de chamada da função irrad_toa
+## irrad_toa(latitude, -longitude, 'hora local hh:mm:ss', GMT , 'data dd:mm:aaaa')
 p1 = irrad_toa(-7.91073, -45.858486, '12:40:10', -3, '02-04-2022')
