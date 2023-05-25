@@ -1,8 +1,7 @@
 """ Princípios Físicos de Sensoriamento Remoto | SER - 205
 Aluno: Vinícius D'Lucas Bezerra e Queiroz - 361406/2022
 
-Script em Python para calcular os valores de Irradiância e a Irradiação Solar no topo da Atmosfera (TOA) no momento da
-tomada das quatro geometrias diferentes (variação de ângulo zenital e azimutal) com o App Albedo.
+Script em Python para calcular os valores de Irradiância e a Irradiação Solar no topo da Atmosfera (TOA) 
 """
 
 # Importando bibliotecas
