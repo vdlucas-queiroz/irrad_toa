@@ -5,5 +5,6 @@ Cálculo da Irradiância no topo da atmosfera, dada latitude, longitude, hora lo
 
 O código está em consonância com os cálculos presentes nos livros:
 
-IQBAL, M. An introduction to solar radiation. 1.ed. New York: Academic Press, 1983. 409p.
+IQBAL, M. An introduction to solar radiation. 1.ed. New York: Academic Press, 1983. 409p.]
+
 LORENZZETTI, J. A. Princípios Físicos de Sensoriamento Remoto. 1.ed. São Paulo: Blucher, 2015. 294p.
